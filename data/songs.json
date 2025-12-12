@@ -1,0 +1,32 @@
+[
+  {
+    "title": "RELIQUIA",
+    "artist": "Rosalia",
+    "mood": ["dreamy", "melancholic"],
+    "activity": ["late night", "crying", "relaxing"],
+    "energy": "medium",
+    "genre": ["alternative", "pop"],
+    "vibe_tags": ["cinematic", "ethereal", "melodic", "dreamy", "airy"],
+    "description": "Soft, climactic track with delicate yet powerful vocals and a floating, classical feel."
+  },
+  {
+    "title": "Ice In My OJ",
+    "artist": "Hayley Williams",
+    "mood": ["gritty", "energetic"],
+    "activity": ["walking", "working out", "reflecting"],
+    "energy": "medium",
+    "genre": ["rock", "alternative"],
+    "vibe_tags": ["layered", "dark", "moody", "expansive", "distorted vocals"],
+    "description": "Constant rock beats with sprinkled explosive roughness, real talk from a powerful artist."
+  },
+  {
+    "title": "Letting Go",
+    "artist": "Calica",
+    "mood": ["uplifting", "nostalgic", "energetic"],
+    "activity": ["commuting", "cooking", "relaxing", "driving"],
+    "energy": "high",
+    "genre": ["pop","indie"],
+    "vibe_tags": ["synthy", "soft vocals", "hypnotic", "rythmic", "moody"],
+    "description": "Bright synths and driving beat that feel expansive, nostalgic, and full of momentum."
+  }
+]
