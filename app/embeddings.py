@@ -50,7 +50,7 @@ def build_song_text(song: dict) -> str:
     tags += [f"artist: {', '.join(artists)}"] if artists else []
     tags += [f"mood: {', '.join(moods)}"] if moods else []
     tags += [f"activity: {', '.join(activities)}"] if activities else []
-    tags += [f"energy: {energy}"] if energy else []
+  #  tags += [f"energy: {energy}"] if energy else [] - decided to not use energy for ranking, only for filtering
     tags += [f"genre: {', '.join(genres)}"] if genres else []
     tags += [f"vibe: {', '.join(vibe_tags)}"] if vibe_tags else []
 

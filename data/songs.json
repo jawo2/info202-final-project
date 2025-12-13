@@ -1,13 +1,13 @@
 [
   {
-    "title": "RELIQUIA",
-    "artist": "Rosalia",
+    "title": "Reliquia",
+    "artist": "ROSALÍA",
     "mood": ["dreamy", "melancholic"],
-    "activity": ["late night", "crying", "relaxing"],
+    "activity": ["daydreaming", "crying", "venting"],
     "energy": "medium",
     "genre": ["alternative", "pop"],
-    "vibe_tags": ["cinematic", "ethereal", "melodic", "dreamy", "airy"],
-    "description": "Soft, climactic track with delicate yet powerful vocals and a floating, classical feel."
+    "vibe_tags": ["cinematic", "ethereal", "melodic", "airy", "expansive"],
+    "description": "Soft, climactic track with delicate yet powerful vocals and a floating, classical feel. Takes you around the world."
   },
   {
     "title": "Ice In My OJ",
@@ -16,7 +16,7 @@
     "activity": ["walking", "working out", "reflecting"],
     "energy": "medium",
     "genre": ["rock", "alternative"],
-    "vibe_tags": ["layered", "dark", "moody", "expansive", "distorted vocals"],
+    "vibe_tags": ["layered", "dark", "moody", "expansive", "distorted vocals", "raw"],
     "description": "Constant rock beats with sprinkled explosive roughness, real talk from a powerful artist."
   },
   {
@@ -25,8 +25,1478 @@
     "mood": ["uplifting", "nostalgic", "energetic"],
     "activity": ["commuting", "cooking", "relaxing", "driving"],
     "energy": "high",
-    "genre": ["pop","indie"],
-    "vibe_tags": ["synthy", "soft vocals", "hypnotic", "rythmic", "moody"],
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["synthy", "soft vocals", "hypnotic", "rhythmic", "moody"],
     "description": "Bright synths and driving beat that feel expansive, nostalgic, and full of momentum."
+  },
+  {
+    "title": "Big Brown Eyes",
+    "artist": "Lola Young",
+    "mood": ["gritty", "energetic", "uplifting"],
+    "activity": ["working out", "driving", "venting"],
+    "energy": "high",
+    "genre": ["alternative", "indie"],
+    "vibe_tags": ["moody", "rhythmic", "intimate", "raw"],
+    "description": "Fast-paced, rage diffusing tune that talks about a shitty ex. "
+  },
+  {
+    "title": "fanatsmas",
+    "artist": "HUMBE",
+    "mood": ["calm", "dreamy", "nostalgic", "warm", "melancholic", "hazy"],
+    "activity": ["walking", "relaxing", "crying", "reflecting", "daydreaming"],
+    "energy": "low",
+    "genre": ["pop", "r&b", "folk", "mariachi"],
+    "vibe_tags": ["intimate", "airy", "hazy", "acoustic", "ethereal", "melodic"],
+    "description": "Mariachi-inspired instruments and vulnerable Mexican Spanish male voice make you feel like you're flying through clouds while remembering loved ones."
+  },
+  {
+    "title": "REM",
+    "artist": "HUMBE",
+    "mood": ["calm", "melancholic", "nostalgic"],
+    "activity": ["relaxing", "late night", "crying", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop", "r&b", "folk"],
+    "vibe_tags": ["cinematic", "intimate", "expansive", "acoustic", "layered", "ethereal", "melodic"],
+    "description": "Song in Spanish has melismatic vocals that take you from soft places to soaring hights, while beat follows perfectly."
+  },
+  {
+    "title": "How Easy",
+    "artist": "Calica",
+    "mood": ["melancholic", "warm", "calm"],
+    "activity": ["studying", "walking", "late night", "crying", "reflecting", "venting"],
+    "energy": "low",
+    "genre": ["indie", "country", "pop"],
+    "vibe_tags": ["intimate", "warm", "moody", "acoustic", "hypnotic"],
+    "description": "Modern country inspired sad song that ponders leaving a loved one that might be making you lose a part of yourself."
+  },
+  {
+    "title": "La Perla",
+    "artist": ["ROSALÍA", "Yahritza y Su Esencia"],
+    "mood": ["dreamy", "calm", "uplifting"],
+    "activity": ["cooking", "relaxing", "commuting", "driving", "daydreaming", "venting"],
+    "energy": "medium",
+    "genre": ["pop", "classical", "flamenco"],
+    "vibe_tags": ["cinematic", "expansive", "airy", "intimate", "melodic", "retro"],
+    "description": "Genre-bending, satisfying and elegant ex-partner rant in Spanish. Two artists' voices blend perfectly, making you waltz in your mind."
+  },
+  {
+    "title": "Sugar Talking",
+    "artist": "Sabrina Carpenter",
+    "mood": ["frustrated", "gritty"],
+    "activity": ["studying", "walking", "late night", "reflecting", "venting"],
+    "energy": "medium",
+    "genre": ["pop", "country", "r&b"],
+    "vibe_tags": ["hazy", "moody", "layered", "textured", "raw"],
+    "description": "Sassy and sincere delivery of someone who knows what they want. Guitar strings in the right place make you feel a slow yet strong groove."
+  },
+  {
+    "title": "All I Wanted",
+    "artist": "Paramore",
+    "mood": ["melancholic", "frustrated", "nostalgic", "energetic", "gritty"],
+    "activity": ["late night", "working out", "commuting", "driving", "venting"],
+    "energy": "high",
+    "genre": ["pop", "rock", "alternative"],
+    "vibe_tags": ["expansive", "hazy", "moody", "acoustic", "textured", "ethereal", "raw"],
+    "description": "Slow-burn that explodes into cathartic emotion, with vulnerable vocals and massive release. Feels like holding something in for too long and finally letting it go."
+  },
+  {
+    "title": "Soy Easy (To Fall In Love)",
+    "artist": "Olivia Dean",
+    "mood": ["warm", "calm", "uplifting"],
+    "activity": ["cooking", "relaxing", "daydreaming", "reflecting"],
+    "energy": "low",
+    "genre": ["pop", "r&b", "soul"],
+    "vibe_tags": ["warm", "intimate", "soft vocals", "melodic", "minimal"],
+    "description": "Smooth, reassuring vocals that are delivered with a warm sweetness. Makes vulnerability feel safe and sincere."
+  },
+  {
+    "title": "Touch & Go",
+    "artist": "Sedona",
+    "mood": ["dreamy", "melancholic", "nostalgic"],
+    "activity": ["walking", "late night", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["hazy", "intimate", "airy", "soft vocals"],
+    "description": "Floaty production and soft delivery that feels like a soundtrack to a 90s movie. Kind of like reviving a memory you never understood."
+  },
+  {
+    "title": "Sugar",
+    "artist": "Remi Wolf",
+    "mood": ["uplifting", "energetic"],
+    "activity": ["cooking", "driving", "daydreaming", "late night"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["synthy", "rhythmic", "chaotic", "retro", "layered"],
+    "description": "Playful, punchy, and a little unhinged in a good way. Almost like seeing colors bouncing."
+  },
+  {
+    "title": "Letting Go",
+    "artist": "Calica",
+    "mood": ["uplifting", "nostalgic", "energetic"],
+    "activity": ["commuting", "cooking", "relaxing", "driving"],
+    "energy": "high",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["synthy", "soft vocals", "hypnotic", "rhythmic", "moody"],
+    "description": "Bright synths and a leading beat that feel full of momentum. Introspective by moving forward while still looking back."
+  },
+  {
+    "title": "3 AM",
+    "artist": "HAIM",
+    "mood": ["nostalgic", "energetic", "uplifting"],
+    "activity": ["driving", "commuting", "late night"],
+    "energy": "medium",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["rhythmic", "retro", "textured", "layered", "intimate", "soft vocals"],
+    "description": "Late-night restlessness with a beat and sultry vocals that makes you feel cheeky. Deals with unresolved feelings that are still buzzing."
+  },
+  {
+    "title": "Think Too Much",
+    "artist": "Hannah Jadagu",
+    "mood": ["calm", "dreamy", "melancholic"],
+    "activity": ["studying", "walking", "reflecting"],
+    "energy": "medium",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["minimal", "soft vocals", "intimate"],
+    "description": "Soft chants that convey the quiet spiral of overthinking. Gentle ear-candy that soothes, but kinda stings you."
+  },
+  {
+    "title": "One Of The Greats",
+    "artist": "Florence + The Machine",
+    "mood": ["uplifting", "energetic", "gritty"],
+    "activity": ["working out", "driving", "venting", "late night"],
+    "energy": "high",
+    "genre": ["rock", "alternative"],
+    "vibe_tags": ["cinematic", "expansive", "raw", "chaotic", "ethereal"],
+    "description": "Big and unfiltered emotions delivered by Florence's classic hard-hitting dramatics. Makes you twirl endlessly while banging your head like her."
+  },
+  {
+    "title": "Ego Death At A Bachelorette Party",
+    "artist": "Hayley Williams",
+    "mood": ["frustrated", "gritty", "melancholic"],
+    "activity": ["late night", "reflecting", "venting", "driving"],
+    "energy": "low",
+    "genre": ["alternative", "rock"],
+    "vibe_tags": ["dark", "raw", "textured", "intimate"],
+    "description": "Uncomfortable for some, brutally honest, and confrontational towards how the singer sees the world currently. Makes you face your insecurities as they are."
+  },
+  {
+    "title": "Augustine",
+    "artist": "Blood Orange",
+    "mood": ["dreamy", "nostalgic", "melancholic"],
+    "activity": ["walking", "late night", "daydreaming", "hazy", "commuting"],
+    "energy": "low",
+    "genre": ["r&b", "indie"],
+    "vibe_tags": ["hazy", "lo-fi", "textured", "cinematic"],
+    "description": "Poem-like feel with melodic spoken words. Distant vocals create a surreal, floating atmosphere - signature Dev Hynes. Subtly incorporates Krio (language from Sierra Leone). Kinda makes you feel like you're in a small budget, indie movie."
+  },
+  {
+    "title": "Half Mast",
+    "artist": "Empire Of The Sun",
+    "mood": ["dreamy", "uplifting", "nostalgic"],
+    "activity": ["driving", "daydreaming", "walking"],
+    "energy": "medium",
+    "genre": ["electronic", "pop"],
+    "vibe_tags": ["futuristic", "airy", "synthy", "expansive"],
+    "description": "Contrasting vocals - from almost nasally spoken to bright head voice create a mist of nostalgia. Feels like artist is trying to plea for someone to come back to their life."
+  },
+  {
+    "title": "My Love",
+    "artist": "Mariah Carey",
+    "mood": ["warm", "nostalgic", "calm", "dreamy"],
+    "activity": ["relaxing", "daydreaming", "reflecting"],
+    "energy": "low",
+    "genre": ["pop", "r&b", "soul"],
+    "vibe_tags": ["melodic", "soft vocals", "intimate", "minimal", "retro"],
+    "description": "Classic ballad feel with a heartfelt delivery that makes it feel timeless yet leaning into 'old-love-song' vibe. If you listen closely you can almost find a new instrument every time you hear this song again."
+  },
+  {
+    "title": "In Your Feelings",
+    "artist": "Mariah Carey",
+    "mood": ["frustrated", "gritty", "melancholic"],
+    "activity": ["venting", "driving", "reflecting", "late night"],
+    "energy": "medium",
+    "genre": ["r&b", "pop", "soul"],
+    "vibe_tags": ["textured", "moody", "raw", "melodic", "intimate", "soft vocals"],
+    "description": "Classic Mariah, but now with a mature tone. Tempo change is very pleasing and the instruments highlight every word's meaning. Highlights awareness of a relationship's decline but not necessarily knowing how they got there. Makes you want to move on, while being just a bit reluctant."
+  },
+  {
+    "title": "Catching Bodies",
+    "artist": "Sekou",
+    "mood": ["gritty", "energetic", "uplifting"],
+    "activity": ["working out", "venting", "driving", "late night"],
+    "energy": "high",
+    "genre": ["soul", "r&b"],
+    "vibe_tags": ["dark", "rhythmic", "raw", "chaotic", "retro"],
+    "description": "Sekou knows what he wants and is aware of temptation. Has sort of a retro energy and sharp delivery that hits hard and consistently with each beat. Made to move through anger, not around it."
+  },
+  {
+    "title": "Caesar in a TV Screen - Ides of March Version",
+    "artist": "The Last Dinner Party",
+    "mood": ["gritty", "energetic", "frustrated"],
+    "activity": ["venting", "working out", "driving", "cooking"],
+    "energy": "high",
+    "genre": ["alternative", "rock", "indie"],
+    "vibe_tags": ["chaotic", "raw", "cinematic", "expansive", "dark", "ethereal"],
+    "description": "Theatrical energy, artists seems comment on a specific male performer persona and how public perceives it. Song deal with insecurities and hypothetics. Sound builds as tempo picks up and the artist's voice fills the room."
+  },
+  {
+    "title": "Throw Down",
+    "artist": "Fleetwood Mac",
+    "mood": ["gritty", "energetic", "frustrated"],
+    "activity": ["driving", "venting", "late night", "reflecting"],
+    "energy": "medium",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["textured", "rhythmic", "raw", "retro"],
+    "description": "Tension builds as soon as you hear Stevie. As Lindsey joins, you feel the resentment as if it was yours. Like a confrontation you’ve been rehearsing in your head."
+  },
+  {
+    "title": "Calling After Me",
+    "artist": "Wallows",
+    "mood": ["nostalgic", "melancholic", "dreamy", "energetic"],
+    "activity": ["walking", "late night", "reflecting", "daydreaming", "commuting"],
+    "energy": "medium",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["hazy", "textured", "melodic", "synthy", "distorted vocals"],
+    "description": "Longing weirdly well matched with uptempo beat - jangly guitars and synth sound makes it fresh. Expresses the excitement of the initial 'chase' between two people."
+  },
+  {
+    "title": "Fire & Lightning",
+    "artist": "Fulton Lee, Karen Linette",
+    "mood": ["dreamy", "melancholic", "warm", "gritty"],
+    "activity": ["relaxing", "reflecting", "daydreaming", "venting"],
+    "energy": "medium",
+    "genre": ["r&b", "indie", "soul"],
+    "vibe_tags": ["intimate", "acoustic", "ethereal", "melodic", "hypnotic"],
+    "description": "Stripped-back production that feels emotional and powerful. Their voices is like liquid fire, hitting ear-candy high notes and sparking some static as some rasp appears to shock you."
+  },
+  {
+    "title": "No One's Watching Me",
+    "artist": "Ezra Collective, Olivia Dean",
+    "mood": ["warm", "uplifting", "calm"],
+    "activity": ["late night", "relaxing", "daydreaming", "reflecting", "venting"],
+    "energy": "medium",
+    "genre": ["jazz", "soul", "r&b"],
+    "vibe_tags": ["warm", "rhythmic", "intimate", "melodic", "layered"],
+    "description": "Loose, cheeky collaboration that feels unguarded and connected with someone. Sax and Olivia's voice make you feel the comfort of being yourself when no one’s looking."
+  },
+  {
+    "title": "Let Me Love You",
+    "artist": "Amber Mark",
+    "mood": ["warm", "melancholic", "dreamy", "uplifting"],
+    "activity": ["late night", "reflecting", "relaxing", "walking"],
+    "energy": "medium",
+    "genre": ["r&b", "soul"],
+    "vibe_tags": ["soft vocals", "intimate", "airy", "melodic", "raw", "ethereal"],
+    "description": "Velvety vocals that have an earthy edge by Amber. Great for strutting when having somewhere to go. Calm convitcion of connection with someone."
+  },
+  {
+    "title": "The Scythe",
+    "artist": "The Last Dinner Party",
+    "mood": ["gritty", "dark", "frustrated", "nostalgic", "melancholic"],
+    "activity": ["venting", "late night", "reflecting", "driving", "crying"],
+    "energy": "medium",
+    "genre": ["alternative", "rock", "indie"],
+    "vibe_tags": ["chaotic", "cinematic", "raw", "dark", "ethereal"],
+    "description": "Heavy and dramatic storytelling that feels mythical and personal. Anger and vulnerability clash while almost time-travelling to your last days and talking with loved ones for the last time."
+  },
+  {
+    "title": "Glum",
+    "artist": "Hayley Williams",
+    "mood": ["melancholic", "frustrated", "gritty"],
+    "activity": ["reflecting", "venting", "late night", "driving"],
+    "energy": "medium",
+    "genre": ["rock", "alternative"],
+    "vibe_tags": ["raw", "intimate", "minimal", "dark", "distorted voice"],
+    "description": "High-pitched Hayley, amlost child-like, acts as your intrusive thoughts while normal Hayley gives you hard truths. Makes you sit with feelings you usually avoid."
+  },
+  {
+    "title": "Parachute",
+    "artist": "Hayley Williams",
+    "mood": ["dreamy", "melancholic", "energetic", "gritty"],
+    "activity": ["late night", "relaxing", "reflecting"],
+    "energy": "low",
+    "genre": ["rock", "alternative", "pop"],
+    "vibe_tags": ["ethereal", "soft vocals", "airy", "intimate", "raw"],
+    "description": "Crystal clear vocals that keep you company while free falling and feel all the feels, even before her voice intentionally goes more grungey. Head banging and mouthing 'I thought you were gonna catch me.'"
+  },
+  {
+    "title": "who's your boyfriend",
+    "artist": "Royel Otis",
+    "mood": ["energetic", "dreamy", "gritty"],
+    "activity": ["driving", "walking", "late night", "cooking"],
+    "energy": "high",
+    "genre": ["indie", "alternative", "pop"],
+    "vibe_tags": ["retro", "rhythmic", "textured", "moody"],
+    "description": "Bouncy tension with a jealous sub-layer. Sounds playful, but feelings related to something unresolved are brewing."
+  },
+  {
+    "title": "Vampire Bat",
+    "artist": "Glass Animals",
+    "mood": ["dreamy", "gritty", "energetic"],
+    "activity": ["driving", "late night", "daydreaming", "reflecting"],
+    "energy": "medium",
+    "genre": ["electronic", "pop", "alternative"],
+    "vibe_tags": ["futuristic", "layered", "textured", "chaotic", "synthy", "distorted vocals", "hypnotic"],
+    "description": "Sticky hooks and whimsical production - classic yet 100% satisfying Glass Animals. Like being orbiting around someone else’s strange world."
+  },
+  {
+    "title": "say something",
+    "artist": "Royel Otis",
+    "mood": ["melancholic", "dreamy", "nostalgic", "energetic", "frustrated"],
+    "activity": ["walking", "reflecting", "daydreaming", "commuting"],
+    "energy": "high",
+    "genre": ["indie", "alternative", "pop"],
+    "vibe_tags": ["hazy", "intimate", "soft vocals", "acoustic", "rhythmic"],
+    "description": "Muted insecurity and overthinking that becomes in pleading out loud (or is it just in your head?). Like practicing a script to confront someone."
+  },
+  {
+    "title": "undressed",
+    "artist": "sombr",
+    "mood": ["melancholic", "dreamy", "warm", "frustrated"],
+    "activity": ["late night", "reflecting", "relaxing", "venting", "driving"],
+    "energy": "medium",
+    "genre": ["indie", "pop", "rock"],
+    "vibe_tags": ["intimate", "minimal", "soft vocals", "moody", "cinematic", "retro"],
+    "description": "Bare and vulnerable delivery by an almost echo of a voice - yet it feels exposed. Kinda feels like bad communication led to distance between people in a relationship coming to an end."
+  },
+  {
+    "title": "Nothing Matters",
+    "artist": "The Last Dinner Party",
+    "mood": ["energetic", "uplifting", "gritty", "melancholic"],
+    "activity": ["working out", "venting", "driving"],
+    "energy": "high",
+    "genre": ["alternative", "rock", "indie"],
+    "vibe_tags": ["cinematic", "chaotic", "expansive", "raw", "ethereal"],
+    "description": "Firm confidence paired with reckless release - the artist's voice feels famliar even to the unfamiliar ear. Feels like doing what it takes, without caring for the consequences, just to feel free and the guitar, keys, trumpet, and drums fuel this feeling."
+  },
+  {
+    "title": "Midnight Sun",
+    "artist": "Zara Larsson",
+    "mood": ["uplifting", "dreamy", "energetic", "warm"],
+    "activity": ["driving", "cooking", "daydreaming", "working out"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "airy", "expansive", "melodic", "cinematic", "futuristic"],
+    "description": "Sparkly pop production that feels hopeful and endless. Like chasing light when it’s about to fade, and doing it all over in a loop."
+  },
+  {
+    "title": "Color Esperanza",
+    "artist": "Diego Torres",
+    "mood": ["uplifting", "energetic", "warm", "nostalgic"],
+    "activity": ["driving", "commuting", "cooking", "working out", "studying"],
+    "energy": "high",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["melodic", "rhythmic", "expansive", "warm", "retro"],
+    "description": "Consistent percussion drives an optimistic feeling. If you know Spanish, the lyrics bring the sun on a cloudy day. Makes you motivated."
+  },
+  {
+    "title": "Fame is a Gun",
+    "artist": "Addison Rae",
+    "mood": ["energetic", "uplifting", "gritty"],
+    "activity": ["driving", "working out", "late night", "venting", "walking"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "rhythmic", "futuristic", "layered", "textured", "soft vocals", "distorted vocals"],
+    "description": "Addison takes this 'cool girl' persona and delivers high tempo pitched vocals. Talks about dangers of the spotlight but makes you indulge."
+  },
+  {
+    "title": "When I Feel It",
+    "artist": "Mariah Carey",
+    "mood": ["warm", "nostalgic", "calm"],
+    "activity": ["late night", "relaxing", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["r&b", "pop", "soul"],
+    "vibe_tags": ["melodic", "soft vocals", "intimate", "layered", "textured", "retro"],
+    "description": "Bond movie feeling by sampling The Dyamic Suepriors. Conveys powerful but controlled emotions, that you feel directed to you. Makes you wanna bop."
+  },
+  {
+    "title": "don't wanna break up again",
+    "artist": "Ariana Grande",
+    "mood": ["melancholic", "frustrated", "dreamy"],
+    "activity": ["late night", "reflecting", "venting", "driving", "working out"],
+    "energy": "medium",
+    "genre": ["pop", "r&b"],
+    "vibe_tags": ["airy", "soft vocals", "melodic", "textured", "moody", "layered"],
+    "description": "Soft, direct honesty that feels pretty while it hurts. Like you already know something's gonna end, but you’re trying to slow it down."
+  },
+  {
+    "title": "Angel of Mine",
+    "artist": "Monica",
+    "mood": ["warm", "nostalgic", "melancholic", "calm"],
+    "activity": ["late night", "relaxing", "crying", "reflecting"],
+    "energy": "low",
+    "genre": ["r&b", "soul", "pop"],
+    "vibe_tags": ["soft vocals", "melodic", "intimate", "minimal", "retro", "warm"],
+    "description": "Pure, classic R&B tune that covers strong feelings for someone who has had great impact in your life. Monica's sweet voice hits like a love letter."
+  },
+  {
+    "title": "Che strano amore questo amore",
+    "artist": "Pino D'Angiò",
+    "mood": ["energetic", "warm", "uplifting"],
+    "activity": ["cooking", "driving", "late night", "walking"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["retro", "rhythmic", "layered", "synthy", "textured"],
+    "description": "Playful, strut-inducing groove with an old-school Italian swag. Feels like dancing through a messy crush with a cheeky smirk."
+  },
+  {
+    "title": "Corazón Partío",
+    "artist": "Alejandro Sanz",
+    "mood": ["melancholic", "nostalgic", "gritty"],
+    "activity": ["driving", "venting", "late night", "reflecting"],
+    "energy": "medium",
+    "genre": ["pop", "flamenco"],
+    "vibe_tags": ["acoustic", "melodic", "raw", "textured", "retro"],
+    "description": "Heartbreak that cuts clean, carried by a Spanish guitar and a husky voice that really means it. Feels dramatic in a good way, making you want sing at the top of your lungs."
+  },
+  {
+    "title": "Little Things",
+    "artist": "KARLEE GIRL",
+    "mood": ["dreamy", "nostalgic", "warm", "uplifting"],
+    "activity": ["walking", "studying", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["soft vocals", "intimate", "minimal", "hazy", "melodic"],
+    "description": "Gentle, introspective, and bouncy, like noticing small details with big meanings. Soft enough to focus, but emotional enough to linger."
+  },
+  {
+    "title": "Garota de Ipanema",
+    "artist": "Paula Sergio",
+    "mood": ["calm", "warm", "nostalgic"],
+    "activity": ["cooking", "relaxing", "daydreaming", "reflecting", "studying"],
+    "energy": "medium",
+    "genre": ["jazz", "pop"],
+    "vibe_tags": ["acoustic", "melodic", "minimal", "airy", "retro"],
+    "description": "Easy, timeless sway sound that makes the room melt. Portuguese sounds especially endearing here - makes you want to live in slo-mo while enjoying your day."
+  },
+  {
+    "title": "Where Have You Been",
+    "artist": "Kelly Clarkson",
+    "mood": ["energetic", "uplifting", "frustrated", "gritty"],
+    "activity": ["working out", "driving", "venting", "commuting"],
+    "energy": "medium",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["expansive", "cinematic", "raw", "textured", "melodic", "moody"],
+    "description": "Out of this world voice conveys big feelings, zero holding back. Feels like turning confusion into strength and letting it echo in the stratospheric climax."
+  },
+  {
+    "title": "Headphones On",
+    "artist": "Addison Rae",
+    "mood": ["uplifting", "energetic", "dreamy"],
+    "activity": ["walking", "commuting", "driving", "late night"],
+    "energy": "medium",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "futuristic", "rhythmic", "airy", "layered", "cinematic"],
+    "description": "Escapist pop that makes you enter your own little movie. Light and shiny but deep if you listen closer. Made for moving through the city and observing."
+  },
+  {
+    "title": "Something Heavy",
+    "artist": "Sam Fender",
+    "mood": ["melancholic", "gritty", "energetic"],
+    "activity": ["driving", "late night", "reflecting", "venting"],
+    "energy": "high",
+    "genre": ["rock", "indie"],
+    "vibe_tags": ["raw", "textured", "expansive", "melodic", "cinematic"],
+    "description": "Sincere rock that feels like carrying an unknown weight and ponder about the world. Builds until you want to scream-sing in the car."
+  },
+  {
+    "title": "People Watching",
+    "artist": "Sam Fender",
+    "mood": ["nostalgic", "melancholic", "energetic"],
+    "activity": ["walking", "commuting", "driving", "reflecting"],
+    "energy": "high",
+    "genre": ["rock", "indie"],
+    "vibe_tags": ["textured", "melodic", "raw", "expansive", "retro"],
+    "description": "Deep and emotional song that talks about missing your past self while looking outward. And yet makes you fully cognizant that evryone lives in their own little world. Sam's voice and deliverable makes it highly relatable."
+  },
+  {
+    "title": "Blade Of Grass",
+    "artist": "Lady Gaga",
+    "mood": ["warm", "melancholic", "nostalgic", "calm"],
+    "activity": ["late night", "reflecting", "crying", "relaxing"],
+    "energy": "low",
+    "genre": ["pop", "country"],
+    "vibe_tags": ["acoustic", "soft vocals", "intimate", "melodic", "minimal", "warm"],
+    "description": "Quiet devotion that feels grounded and real, like love without performance. Simple and tender in a way that sneaks up on you."
+  },
+  {
+    "title": "Vanish Into You",
+    "artist": "Lady Gaga",
+    "mood": ["uplifting", "energetic", "dreamy", "warm"],
+    "activity": ["driving", "working out", "late night", "daydreaming", "cooking"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["synthy", "futuristic", "expansive", "rhythmic", "layered"],
+    "description": "Raw pop that makes you feel raw emotions as Gaga's piercing honest rapsy tone goes sits on the mid-high belts. Big hooks and a floaty rush that makes you forget your own thoughts and want the kind of love she sings about."
+  },
+  {
+    "title": "Lost on You",
+    "artist": "LP",
+    "mood": ["melancholic", "gritty", "nostalgic"],
+    "activity": ["driving", "venting", "late night", "reflecting", "studying"],
+    "energy": "medium",
+    "genre": ["rock", "alternative", "indie"],
+    "vibe_tags": ["raw", "acoustic", "textured", "melodic", "expansive"],
+    "description": "Rasp and heartbreak that feel yours. Like admitting you miss someone while pretending you don’t."
+  },
+  {
+    "title": "Photograph",
+    "artist": "Def Leppard",
+    "mood": ["nostalgic", "gritty", "energetic"],
+    "activity": ["driving", "late night", "reflecting", "daydreaming", "venting"],
+    "energy": "high",
+    "genre": ["rock"],
+    "vibe_tags": ["retro", "melodic", "textured", "expansive", "raw"],
+    "description": "Textbook great rock song that talks about longing that feels like going through memories you need to relive. Big chorus, very car-ride worthy."
+  },
+  {
+    "title": "Tu Carcel",
+    "artist": "Los Enanitos Verdes",
+    "mood": ["melancholic", "nostalgic", "gritty", "frustrated"],
+    "activity": ["driving", "late night", "venting", "reflecting", "cooking"],
+    "energy": "medium",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["retro", "melodic", "raw", "textured", "acoustic"],
+    "description": "Old-school heartbreak in Spanish that deals with being left but highlights how the other person might be somewhat misserable. Feels like singing pain out loud makes it a little lighter."
+  },
+  {
+    "title": "Black Hole",
+    "artist": "Griff",
+    "mood": ["energetic", "uplifting", "frustrated"],
+    "activity": ["driving", "commuting", "working out", "late night", "dark"],
+    "energy": "high",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["synthy", "futuristic", "rhythmic", "layered", "textured", "raw"],
+    "description": "Elbowing obstacles to move forward while the lyrics spiral a bit. Feels like getting pulled in, but choosing to escape."
+  },
+  {
+    "title": "last night's mascara",
+    "artist": "Griff",
+    "mood": ["melancholic", "dreamy", "nostalgic"],
+    "activity": ["late night", "reflecting", "venting", "walking", "dark"],
+    "energy": "medium",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["hazy", "soft vocals", "intimate", "textured", "melodic"],
+    "description": "Soft sadness with a glossy finish, makes you want to feel acknowledged and valued by someone who hasn't in the past. Feels like replaying a night you wish you could re-do."
+  },
+  {
+    "title": "Labios Compartidos",
+    "artist": "Maná",
+    "mood": ["melancholic", "nostalgic", "gritty", "frustrated"],
+    "activity": ["driving", "late night", "venting", "reflecting"],
+    "energy": "high",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["melodic", "raw", "textured", "retro", "expansive"],
+    "description": "Latin rock talking exploring heartbreak and jealousy in a poetic way. Like you’re arguing with your own memories as you relive them."
+  },
+  {
+    "title": "The Crying Room",
+    "artist": "The Yagas",
+    "mood": ["melancholic", "gritty", "frustrated"],
+    "activity": ["late night", "reflecting", "venting", "driving"],
+    "energy": "high",
+    "genre": ["alternative", "rock"],
+    "vibe_tags": ["dark", "raw", "textured", "layered", "melodic", "ethereal", "cinematic"],
+    "description": "Heavy mood that draws you slowly, self-reflective in the sense that surfaces feelings you’ve been avoiding. The tension stays in your chest and then cracks open with Vera's ghostly wails."
+  },
+  {
+    "title": "Akira",
+    "artist": "MICHELLE",
+    "mood": ["energetic", "uplifting", "dreamy"],
+    "activity": ["walking", "commuting", "driving", "daydreaming"],
+    "energy": "medium",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["layered", "textured", "rhythmic", "synthy", "melodic", "chaotic"],
+    "description": "Bouncy, colorful cheeky chaos that also feels clean and intentional. Makes you visualize a fast montage of a future decision chain."
+  },
+  {
+    "title": "ROCKMAN",
+    "artist": "Mk.gee",
+    "mood": ["dreamy", "gritty", "melancholic", "nostalgic"],
+    "activity": ["late night", "walking", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["alternative", "indie"],
+    "vibe_tags": ["textured", "hypnotic", "lo-fi", "layered", "distorted vocals", "dark"],
+    "description": "Hazy guitar strings with vocals that feel like they’re coming from another room. Comforting, like sinking into a thought you don’t want to leave."
+  },
+  {
+    "title": "Spotlight",
+    "artist": "Jennifer Hudson",
+    "mood": ["uplifting", "energetic", "gritty", "frustrated"],
+    "activity": ["driving", "venting", "working out", "commuting"],
+    "energy": "high",
+    "genre": ["pop", "soul", "r&b"],
+    "vibe_tags": ["cinematic", "expansive", "melodic", "raw", "textured"],
+    "description": "Big voice and feelings from Jennifer, zero apologies. Empowering and helps you with confidence, let it blast through the speakers."
+  },
+  {
+    "title": "Fantasy",
+    "artist": "JADE",
+    "mood": ["energetic", "uplifting", "warm"],
+    "activity": ["driving", "working out", "cooking", "late night"],
+    "energy": "high",
+    "genre": ["pop", "alternative", "r&b"],
+    "vibe_tags": ["synthy", "rhythmic", "futuristic", "layered", "airy"],
+    "description": "Glimmering pop rush that encourages self-acceptance in a cheeky way. Fun and light but you can for sure bop to it."
+  },
+  {
+    "title": "Happy Mistake",
+    "artist": "Lady Gaga",
+    "mood": ["melancholic", "warm", "nostalgic"],
+    "activity": ["late night", "reflecting", "relaxing", "crying"],
+    "energy": "low",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["intimate", "melodic", "soft vocals", "minimal", "textured", "raw"],
+    "description": "Takes you on a journey. Gaga starts tender and honest and then goes into room-filling rawness. Like admitting you miss something that hurt you."
+  },
+  {
+    "title": "Don't Let Me Get Me",
+    "artist": "P!nk",
+    "mood": ["energetic", "gritty", "frustrated"],
+    "activity": ["working out", "venting", "driving", "commuting"],
+    "energy": "high",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["raw", "rhythmic", "textured", "melodic", "retro"],
+    "description": "Straight up self-sabotage with a punchy kick. Feels like laughing at your own mess while still kinda spiraling."
+  },
+  {
+    "title": "Ojos Noche",
+    "artist": "Elsa y Elmar",
+    "mood": ["dreamy", "melancholic", "warm"],
+    "activity": ["late night", "reflecting", "daydreaming", "walking"],
+    "energy": "medium",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["hazy", "intimate", "soft vocals", "melodic", "minimal"],
+    "description": "Soft Spanish pop that feels like whispering a secret you’ve been holding onto to someone you trust. Warm but a little haunted in a pretty way."
+  },
+  {
+    "title": "we can't be friends",
+    "artist": "Ariana Grande",
+    "mood": ["melancholic", "dreamy", "frustrated"],
+    "activity": ["late night", "reflecting", "venting", "walking", "crying"],
+    "energy": "medium",
+    "genre": ["pop", "r&b"],
+    "vibe_tags": ["airy", "soft vocals", "melodic", "layered", "moody", "ethereal"],
+    "description": "Makes you appreciate sadness, slowly accepting it. Like you’re trying to be mature about it, but it still stings every time."
+  },
+  {
+    "title": "Nivel Dios",
+    "artist": ["Yahritza Y Su Esencia", "Michelle Maciel"],
+    "mood": ["gritty", "melancholic", "nostalgic"],
+    "activity": ["driving", "late night", "reflecting", "venting"],
+    "energy": "medium",
+    "genre": ["folk", "pop"],
+    "vibe_tags": ["melodic", "raw", "textured", "intimate", "acoustic"],
+    "description": "Emotional Spanish vocals that feel direct and unfiltered. They are finally saying the hard part out loud, after long moping."
+  },
+  {
+    "title": "Don't Smile",
+    "artist": "Sabrina Carpenter",
+    "mood": ["frustrated", "gritty", "melancholic", "nostalgic"],
+    "activity": ["late night", "reflecting", "venting", "walking", "crying"],
+    "energy": "low",
+    "genre": ["pop"],
+    "vibe_tags": ["moody", "textured", "layered", "melodic", "raw"],
+    "description": "A calm kind of irkness, like you’re done being polite about it and cut the bullshit. The bite is subtle, but it’s definitely there."
+  },
+  {
+    "title": "Eyes Without A Face",
+    "artist": "Billy Idol",
+    "mood": ["nostalgic", "dreamy", "gritty"],
+    "activity": ["driving", "late night", "daydreaming", "reflecting", "crying"],
+    "energy": "medium",
+    "genre": ["rock"],
+    "vibe_tags": ["retro", "hypnotic", "textured", "melodic", "dark"],
+    "description": "Iconic 80s mood that feels romantic but a little eerie. Like looking staraight at someone you can’t read, and still wanting more."
+  },
+  {
+    "title": "Picture You",
+    "artist": "Chappell Roan",
+    "mood": ["dreamy", "nostalgic", "melancholic"],
+    "activity": ["late night", "reflecting", "daydreaming", "walking", "crying"],
+    "energy": "medium",
+    "genre": ["pop"],
+    "vibe_tags": ["cinematic", "melodic", "layered", "textured", "soft vocals", "moody"],
+    "description": "Big feelings being spoken softly in a movie scene in your head. Feels like wanting someone so bad you turn it into art."
+  },
+  {
+    "title": "LENTO",
+    "artist": "Cami",
+    "mood": ["dreamy", "melancholic", "warm"],
+    "activity": ["late night", "reflecting", "relaxing", "daydreaming", "venting"],
+    "energy": "medium",
+    "genre": ["pop"],
+    "vibe_tags": ["intimate", "soft vocals", "melodic", "airy", "minimal"],
+    "description": "Slow and close, like she’s singing right next to you. Makes you feel vulnerable but wanting control over how a hearbreak unflods."
+  },
+  {
+    "title": "Diggin' On You",
+    "artist": "TLC",
+    "mood": ["warm", "uplifting", "calm"],
+    "activity": ["cooking", "relaxing", "driving", "daydreaming", "studying"],
+    "energy": "medium",
+    "genre": ["r&b", "soul"],
+    "vibe_tags": ["retro", "rhythmic", "soft vocals", "melodic", "warm", "layered"],
+    "description": "Smooth classic R&B that feels like waking up to sunlight through blinds. Flirty, effortless, and makes you move without thinking."
+  },
+  {
+    "title": "in your hands",
+    "artist": "Halle",
+    "mood": ["dreamy", "warm", "melancholic"],
+    "activity": ["late night", "reflecting", "relaxing", "daydreaming"],
+    "energy": "low",
+    "genre": ["r&b", "soul"],
+    "vibe_tags": ["ethereal", "soft vocals", "intimate", "melodic", "airy", "dark"],
+    "description": "Halle delivers dark fairy tale vocals that state someone's reality after they lose you. The relationship dynamic is interesting, as she acknowledges she is what makes her partner great."
+  },
+  {
+    "title": "El Sol No Regresa",
+    "artist": "La Quinta Estación",
+    "mood": ["uplifting", "energetic", "nostalgic"],
+    "activity": ["driving", "commuting", "cooking", "working out"],
+    "energy": "high",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["melodic", "rhythmic", "retro", "expansive", "textured"],
+    "description": "Upbeat Spanish pop-rock with a dramatic shine that makes you feel like you’re running from heartbreak, but somewhat hopeful. Built for loud car singing."
+  },
+  {
+    "title": "White Roses",
+    "artist": "Glass Animals",
+    "mood": ["dreamy", "hazy", "melancholic"],
+    "activity": ["late night", "daydreaming", "reflecting", "driving"],
+    "energy": "medium",
+    "genre": ["electronic", "alternative", "pop"],
+    "vibe_tags": ["layered", "textured", "hypnotic", "futuristic", "distorted vocals"],
+    "description": "Sticky, floaty production that feels like being half-awake in a neon dream. The groove pulls you in while the lyrics keep you slightly unsettled."
+  },
+  {
+    "title": "Ring My Bell",
+    "artist": "Anita Ward",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["cooking", "driving", "late night", "walking"],
+    "energy": "high",
+    "genre": ["disco", "soul", "pop"],
+    "vibe_tags": ["retro", "rhythmic", "groovy", "melodic", "warm"],
+    "description": "Classic disco flirtiness with a timeless bounce. Instant mood lift that makes you move without asking permission."
+  },
+  {
+    "title": "Eyes on my baby",
+    "artist": "BETWEEN FRIENDS",
+    "mood": ["dreamy", "uplifting", "energetic"],
+    "activity": ["walking", "commuting", "driving", "late night"],
+    "energy": "high",
+    "genre": ["pop", "electronic", "indie"],
+    "vibe_tags": ["synthy", "airy", "layered", "rhythmic", "hazy"],
+    "description": "Cute and upbeat with a soft roundness, like being confident and crushy at the same time. Feels like city lights and texting too fast."
+  },
+  {
+    "title": "un día",
+    "artist": ["Lara91k", "Julieta Venegas"],
+    "mood": ["melancholic", "nostalgic", "dreamy"],
+    "activity": ["late night", "reflecting", "daydreaming", "walking"],
+    "energy": "medium",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["melodic", "soft vocals", "hazy", "intimate", "textured"],
+    "description": "Spanish-language melancholy that feels gentle but very direct. Like replaying a conversation you wish you could redo, slower this time."
+  },
+  {
+    "title": "Love Of My Life",
+    "artist": "Harry Styles",
+    "mood": ["nostalgic", "melancholic", "warm"],
+    "activity": ["driving", "late night", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop", "rock"],
+    "vibe_tags": ["melodic", "textured", "retro", "intimate", "warm"],
+    "description": "Bittersweet and reminescent, like missing someone while pretending it’s fine. Feels like end of a chapter, nostalgic."
+  },
+  {
+    "title": "GO STUPID",
+    "artist": "Julia Cooper",
+    "mood": ["energetic", "uplifting", "gritty"],
+    "activity": ["working out", "driving", "venting", "late night"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["chaotic", "synthy", "rhythmic", "futuristic", "textured"],
+    "description": "Unhinged pop confidence that makes you feel fearless for three minutes. Like choosing chaos on purpose and loving it."
+  },
+  {
+    "title": "Girl, so confusing",
+    "artist": ["Charli XCX", "Lorde"],
+    "mood": ["frustrated", "gritty", "energetic"],
+    "activity": ["driving", "late night", "venting", "walking"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["textured", "layered", "chaotic", "synthy", "raw"],
+    "description": "Deals with messy feelings with a glossy punch, like overthinking in bathroom mirror. Sharp, direct, and weirdly freeing."
+  },
+  {
+    "title": "L'AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+    "artist": "Billie Eilish",
+    "mood": ["energetic", "gritty", "frustrated"],
+    "activity": ["driving", "late night", "venting", "working out"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["layered", "textured", "futuristic", "cinematic", "hypnotic", "chaotic"],
+    "description": "Switches from cold emotion to full release, like flipping slow motion chaos. Feels like finally being over it and still wanting them to know."
+  },
+  {
+    "title": "Dive",
+    "artist": "Olivia Dean",
+    "mood": ["warm", "calm", "uplifting"],
+    "activity": ["cooking", "relaxing", "daydreaming", "reflecting"],
+    "energy": "low",
+    "genre": ["r&b", "soul", "pop"],
+    "vibe_tags": ["soft vocals", "melodic", "intimate", "warm", "minimal"],
+    "description": "Smooth and reassuring, like someone talking you down in a sweett way. Makes love feel safe and steady."
+  },
+  {
+    "title": "A Warning",
+    "artist": "Wallows",
+    "mood": ["nostalgic", "melancholic", "energetic"],
+    "activity": ["walking", "commuting", "driving", "reflecting"],
+    "energy": "high",
+    "genre": ["indie", "pop", "rock"],
+    "vibe_tags": ["textured", "melodic", "rhythmic", "retro", "layered"],
+    "description": "Jangly and urgent, like realizing the red flags too late but still wanting to run toward it. Feels like a fast walk with loud thoughts."
+  },
+  {
+    "title": "Made for Me",
+    "artist": ["Muni Long", "Mariah Carey"],
+    "mood": ["warm", "uplifting", "dreamy"],
+    "activity": ["cooking", "driving", "late night", "daydreaming"],
+    "energy": "medium",
+    "genre": ["r&b", "soul"],
+    "vibe_tags": ["melodic", "soft vocals", "intimate", "warm", "layered"],
+    "description": "Romantic r&b that feels like being chosen on purpose. Smooth vocals with that classic glow that makes you want to text someone you miss."
+  },
+  {
+    "title": "SWEET N SOUR",
+    "artist": "Julia Cooper",
+    "mood": ["energetic", "uplifting", "gritty"],
+    "activity": ["driving", "working out", "late night", "venting"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "rhythmic", "textured", "chaotic", "layered"],
+    "description": "Sugar rush pop with a punch, like smiling while you’re plotting your comeback. Loud, fast, and kinda addictive."
+  },
+  {
+    "title": "Every Little Thing I Say I Do",
+    "artist": "Dayglow",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["walking", "commuting", "driving", "cooking"],
+    "energy": "high",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["retro", "rhythmic", "melodic", "warm", "textured"],
+    "description": "Bright tune that feels like a clean slate and fresh air. Makes you want to walk faster and believe things will work out."
+  },
+  {
+    "title": "Maria",
+    "artist": "Dua Lipa",
+    "mood": ["energetic", "uplifting", "warm"],
+    "activity": ["driving", "working out", "cooking", "late night"],
+    "energy": "high",
+    "genre": ["pop", "disco"],
+    "vibe_tags": ["retro", "rhythmic", "groovy", "layered", "melodic"],
+    "description": "Confident pop-disco bounce that feels like strutting with determination. Recognized the impact of that a third person had on someone's live. Smooth hooks that make you feel unstoppable."
+  },
+  {
+    "title": "Watcha Doing",
+    "artist": "Dua Lipa",
+    "mood": ["uplifting", "energetic", "flirty"],
+    "activity": ["driving", "walking", "late night", "cooking"],
+    "energy": "high",
+    "genre": ["pop", "disco"],
+    "vibe_tags": ["rhythmic", "retro", "groovy", "melodic", "layered"],
+    "description": "Playful, flirty energy that feels like a late-night text you actually send. Light, bouncy, and made for moving."
+  },
+  {
+    "title": "Bourgeoisieses",
+    "artist": "Conan Gray",
+    "mood": ["frustrated", "gritty", "energetic"],
+    "activity": ["driving", "venting", "late night", "working out"],
+    "energy": "high",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["raw", "textured", "cinematic", "layered", "moody"],
+    "description": "Sharp and dramatic, like turning bitterness into a performance you can dance to. Feels like calling out the world while still wanting to belong."
+  },
+  {
+    "title": "Never Ending Song",
+    "artist": "Conan Gray",
+    "mood": ["nostalgic", "uplifting", "energetic"],
+    "activity": ["driving", "commuting", "walking", "late night"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["retro", "rhythmic", "melodic", "layered", "textured"],
+    "description": "Sparkly pop nostalgia that feels like the first seconds of a crush. Catchy in a way that loops in your head like it’s on purpose."
+  },
+  {
+    "title": "This Kiss",
+    "artist": "Faith Hill",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["driving", "cooking", "commuting", "daydreaming"],
+    "energy": "high",
+    "genre": ["country", "pop"],
+    "vibe_tags": ["melodic", "rhythmic", "retro", "warm", "expansive"],
+    "description": "Pure sunshine country-pop that feels like windows down and zero problems. Makes romance feel easy and a little cheesy but enjoyable."
+  },
+  {
+    "title": "II MOST WANTED",
+    "artist": ["Beyoncé", "Miley Cyrus"],
+    "mood": ["nostalgic", "melancholic", "warm"],
+    "activity": ["driving", "late night", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["country", "pop"],
+    "vibe_tags": ["acoustic", "melodic", "textured", "expansive", "warm"],
+    "description": "Road-trip friendship and loyalty with a bittersweet edge. Feels like riding into the sunset with someone who actually gets you."
+  },
+  {
+    "title": "Rave Angel",
+    "artist": "Blusher",
+    "mood": ["energetic", "uplifting", "dreamy"],
+    "activity": ["driving", "late night", "working out", "walking"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "futuristic", "rhythmic", "layered", "airy", "textured"],
+    "description": "Glittery club-pop rush that feels like levitating in flashing lights. Big hooks, floaty production, and pure main-character momentum."
+  },
+  {
+    "title": "Limelight",
+    "artist": "Blusher",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["driving", "commuting", "walking", "working out"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "rhythmic", "layered", "textured", "cinematic", "futuristic"],
+    "description": "Shiny pop confidence that feels like stepping into the spotlight on purpose. Clean, bouncy beat that makes you walk faster without noticing."
+  },
+  {
+    "title": "Change",
+    "artist": "FLO",
+    "mood": ["warm", "uplifting", "melancholic"],
+    "activity": ["late night", "reflecting", "driving", "relaxing"],
+    "energy": "medium",
+    "genre": ["r&b", "pop"],
+    "vibe_tags": ["soft vocals", "melodic", "intimate", "layered", "warm", "textured"],
+    "description": "Smooth modern R&B that feels honest without being dramatic. Like accepting something is shifting, even if you still wish it didn’t."
+  },
+  {
+    "title": "imperfect for you",
+    "artist": "Ariana Grande",
+    "mood": ["warm", "dreamy", "melancholic"],
+    "activity": ["late night", "reflecting", "daydreaming", "relaxing"],
+    "energy": "low",
+    "genre": ["pop", "r&b"],
+    "vibe_tags": ["airy", "soft vocals", "intimate", "minimal", "melodic", "hazy"],
+    "description": "Tender, close-up vocals that feel like a quiet confession. Soft love with a realistic tone, like choosing each other anyway."
+  },
+  {
+    "title": "Goddess",
+    "artist": "Laufey",
+    "mood": ["warm", "nostalgic", "dreamy"],
+    "activity": ["relaxing", "late night", "daydreaming", "reflecting"],
+    "energy": "low",
+    "genre": ["jazz", "pop"],
+    "vibe_tags": ["acoustic", "melodic", "intimate", "soft vocals", "retro", "minimal"],
+    "description": "Velvet jazz-pop that feels like candlelight burning slow. Romantic in a composed way, like elegance you can actually breathe in."
+  },
+  {
+    "title": "eternal sunshine",
+    "artist": "Ariana Grande",
+    "mood": ["melancholic", "dreamy", "nostalgic"],
+    "activity": ["late night", "reflecting", "driving", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop", "r&b"],
+    "vibe_tags": ["airy", "layered", "melodic", "textured", "moody", "cinematic"],
+    "description": "Bittersweet pop that feels bright on the surface but heavy underneath. Like trying to move forward while your heart keeps rewinding."
+  },
+  {
+    "title": "Chocolatito",
+    "artist": "Pol Granch",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["cooking", "driving", "walking", "late night"],
+    "energy": "high",
+    "genre": ["pop", "latin"],
+    "vibe_tags": ["rhythmic", "retro", "textured", "melodic", "playful"],
+    "description": "Flirty Spanish pop with a cheeky bounce and sweet swagger. Feels like dancing around the kitchen with a grin you can’t hide."
+  },
+  {
+    "title": "Heladito",
+    "artist": "Kali Uchis",
+    "mood": ["dreamy", "warm", "uplifting"],
+    "activity": ["driving", "late night", "cooking", "daydreaming"],
+    "energy": "medium",
+    "genre": ["r&b", "latin", "pop"],
+    "vibe_tags": ["hazy", "soft vocals", "melodic", "layered", "textured", "intimate"],
+    "description": "Sweet and silky like melting candy. Kali’s voice floats over a groove that’s chill but still addictive, like a slow summer night."
+  },
+  {
+    "title": "Se Me Olvidó",
+    "artist": "Gian Marco",
+    "mood": ["melancholic", "nostalgic", "warm"],
+    "activity": ["late night", "reflecting", "crying", "driving"],
+    "energy": "low",
+    "genre": ["pop", "latin"],
+    "vibe_tags": ["acoustic", "melodic", "intimate", "raw", "warm", "textured"],
+    "description": "Classic Latin ballad sadness that feels personal. Like remembering something you pretended you forgot, and it hits again."
+  },
+  {
+    "title": "Tu Misterioso Alguien",
+    "artist": "Miranda!",
+    "mood": ["energetic", "uplifting", "dreamy"],
+    "activity": ["driving", "late night", "walking", "cooking"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "retro", "rhythmic", "layered", "airy", "playful"],
+    "description": "Catchy electro-pop drama with a wink. Feels like dancing through jealousy for someone you aren't sure exists."
+  },
+  {
+    "title": "Te Mentiría",
+    "artist": "Gian Marco",
+    "mood": ["melancholic", "nostalgic", "frustrated"],
+    "activity": ["late night", "reflecting", "venting", "driving"],
+    "energy": "medium",
+    "genre": ["pop", "latin"],
+    "vibe_tags": ["melodic", "raw", "textured", "acoustic", "intimate"],
+    "description": "Heartbreak with a steady pulse, like holding your voice together while you admit the truth. Emotional but controlled, built for late-night replay."
+  },
+  {
+    "title": "Tummy Hurts",
+    "artist": ["Reneé Rapp", "Coco Jones"],
+    "mood": ["melancholic", "frustrated", "gritty"],
+    "activity": ["late night", "reflecting", "venting", "driving"],
+    "energy": "medium",
+    "genre": ["r&b", "pop"],
+    "vibe_tags": ["raw", "melodic", "textured", "intimate", "layered"],
+    "description": "Gut-punch honesty that feels too real, in the best way. Big vocals meet emotional messiness, like saying what you usually swallow."
+  },
+  {
+    "title": "Mil Horas",
+    "artist": "Los Abuelos De La Nada",
+    "mood": ["nostalgic", "energetic", "melancholic"],
+    "activity": ["driving", "late night", "commuting", "venting"],
+    "energy": "high",
+    "genre": ["rock", "latin"],
+    "vibe_tags": ["retro", "melodic", "raw", "textured", "rhythmic"],
+    "description": "Classic Argentinian rock nostalgia that makes you sing before you realize you’re emotional. Feels like late nights, cigarettes, and memories you can’t quit."
+  },
+  {
+    "title": "Loco",
+    "artist": "Andrés Calamaro",
+    "mood": ["gritty", "nostalgic", "energetic"],
+    "activity": ["driving", "late night", "venting", "walking"],
+    "energy": "high",
+    "genre": ["rock", "latin"],
+    "vibe_tags": ["raw", "retro", "melodic", "textured", "rhythmic"],
+    "description": "Loose, swaggering rock that feels like chaos with charm. Like you’re a mess, you know it, and you’re still walking like you’re fine."
+  },
+  {
+    "title": "Un Vino, Una Cerveza",
+    "artist": "Pedro Suárez-Vértiz",
+    "mood": ["nostalgic", "warm", "melancholic"],
+    "activity": ["cooking", "driving", "late night", "reflecting"],
+    "energy": "medium",
+    "genre": ["rock", "pop", "latin"],
+    "vibe_tags": ["melodic", "retro", "textured", "warm", "raw"],
+    "description": "Peruvian classic that feels like talking through heartbreak over drinks. Casual and poetic at the same time, like memory turned into a singalong."
+  },
+  {
+    "title": "Cuéntame",
+    "artist": "Pedro Suárez-Vértiz",
+    "mood": ["nostalgic", "melancholic", "warm"],
+    "activity": ["driving", "late night", "reflecting", "venting"],
+    "energy": "medium",
+    "genre": ["rock", "pop", "latin"],
+    "vibe_tags": ["melodic", "retro", "textured", "raw", "expansive"],
+    "description": "Emotional rock-pop that feels like asking questions you already know the answer to. Built for loud singing when you need it out of your system."
+  },
+  {
+    "title": "Alive",
+    "artist": "Cynthia Erivo",
+    "mood": ["uplifting", "energetic", "warm"],
+    "activity": ["working out", "driving", "commuting", "venting"],
+    "energy": "high",
+    "genre": ["pop", "soul"],
+    "vibe_tags": ["cinematic", "expansive", "melodic", "raw", "textured"],
+    "description": "Big voice, big surge of life. Feels like turning pain into power and letting it fill the whole room."
+  },
+  {
+    "title": "Glowing Up",
+    "artist": "Cynthia Erivo",
+    "mood": ["uplifting", "energetic", "confident"],
+    "activity": ["working out", "driving", "walking", "commuting"],
+    "energy": "high",
+    "genre": ["pop", "soul", "r&b"],
+    "vibe_tags": ["rhythmic", "melodic", "textured", "layered", "warm"],
+    "description": "Inspiring energy with heart behind it. Like choosing yourself, dressing well, and stepping outside like the world owes you space."
+  },
+  {
+    "title": "Intrusive Thoughts",
+    "artist": "Natalie Jane",
+    "mood": ["frustrated", "energetic", "gritty"],
+    "activity": ["late night", "venting", "driving", "working out"],
+    "energy": "medium",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["textured", "layered", "chaotic", "synthy", "moody"],
+    "description": "Fast pop spiral that feels like your brain won’t shut up. Catchy in a way that makes the chaos feel weirdly fun."
+  },
+  {
+    "title": "Again",
+    "artist": "Lenny Kravitz",
+    "mood": ["nostalgic", "melancholic", "warm"],
+    "activity": ["late night", "reflecting", "driving", "daydreaming"],
+    "energy": "medium",
+    "genre": ["rock"],
+    "vibe_tags": ["melodic", "textured", "raw", "retro", "expansive"],
+    "description": "Smooth rock longing with that classic ache. Feels like admitting you’d do it all over again, even knowing how it ends."
+  },
+  {
+    "title": "In My Room",
+    "artist": ["Troye Sivan", "Guitarricadelafuente"],
+    "mood": ["dreamy", "warm", "melancholic"],
+    "activity": ["late night", "daydreaming", "reflecting", "relaxing"],
+    "energy": "low",
+    "genre": ["pop", "indie"],
+    "vibe_tags": ["intimate", "soft vocals", "acoustic", "hazy", "melodic", "textured"],
+    "description": "Close and tender, like a secret you don’t want to translate. Soft vocals and guitar warmth that feels like staying in with your feelings on purpose."
+  },
+  {
+    "title": "What's The Time Where You Are?",
+    "artist": "Troye Sivan",
+    "mood": ["nostalgic", "melancholic", "dreamy"],
+    "activity": ["late night", "reflecting", "walking", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop"],
+    "vibe_tags": ["hazy", "melodic", "intimate", "layered", "textured"],
+    "description": "Long-distance longing that feels gentle but constant. Like checking the clock just to feel closer to someone you miss."
+  },
+  {
+    "title": "Fotografía",
+    "artist": ["Juanes", "Nelly Furtado"],
+    "mood": ["nostalgic", "melancholic", "warm"],
+    "activity": ["driving", "late night", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop", "rock", "latin"],
+    "vibe_tags": ["melodic", "acoustic", "textured", "warm", "retro"],
+    "description": "Memory-heavy duet that feels like flipping through old photos you promised you wouldn’t. Sweet and sad in the same breath, built for singing along."
+  },
+  {
+    "title": "Lamento Boliviano",
+    "artist": "Los Enanitos Verdes",
+    "mood": ["nostalgic", "melancholic", "gritty"],
+    "activity": ["driving", "late night", "venting", "reflecting"],
+    "energy": "high",
+    "genre": ["rock", "latin"],
+    "vibe_tags": ["retro", "raw", "melodic", "textured", "rhythmic"],
+    "description": "Classic Latin rock sadness that somehow feels good to shout. Like turning heartbreak into a chant and letting it carry you."
+  },
+  {
+    "title": "From The Start",
+    "artist": "Laufey",
+    "mood": ["warm", "uplifting", "nostalgic"],
+    "activity": ["cooking", "relaxing", "daydreaming", "walking"],
+    "energy": "medium",
+    "genre": ["jazz", "pop"],
+    "vibe_tags": ["retro", "melodic", "acoustic", "soft vocals", "rhythmic", "intimate"],
+    "description": "Flirty jazz-pop sweetness that feels like a crush you can’t hide. Light and charming, like smiling at someone and hoping they notice."
+  },
+  {
+    "title": "Bewitched",
+    "artist": "Laufey",
+    "mood": ["dreamy", "melancholic", "nostalgic"],
+    "activity": ["late night", "reflecting", "daydreaming", "crying"],
+    "energy": "low",
+    "genre": ["jazz", "pop"],
+    "vibe_tags": ["acoustic", "melodic", "intimate", "soft vocals", "retro", "minimal"],
+    "description": "Romantic ache that feels soft but deep, like being under a spell you don’t want to break. Elegant melodies that linger after the song ends."
+  },
+  {
+    "title": "How Can I Make It Ok?",
+    "artist": "Wolf Alice",
+    "mood": ["melancholic", "gritty", "nostalgic"],
+    "activity": ["late night", "reflecting", "driving", "venting"],
+    "energy": "medium",
+    "genre": ["alternative", "rock", "indie"],
+    "vibe_tags": ["textured", "expansive", "raw", "moody", "layered", "cinematic"],
+    "description": "Soft-to-loud emotional crash that feels like trying to fix something that’s already breaking. Dreamy guitars with a heavy weight underneath."
+  },
+  {
+    "title": "Frágil",
+    "artist": ["Yahritza Y Su Esencia", "Grupo Frontera"],
+    "mood": ["melancholic", "nostalgic", "warm"],
+    "activity": ["late night", "reflecting", "driving", "crying"],
+    "energy": "medium",
+    "genre": ["folk", "pop"],
+    "vibe_tags": ["acoustic", "melodic", "intimate", "raw", "textured"],
+    "description": "Tender Mexican heartbreak that feels simple and direct. Like admitting you’re not okay and brittle, but saying it softly so it doesn’t scare anyone."
+  },
+  {
+    "title": "Your Love",
+    "artist": "The Outfield",
+    "mood": ["nostalgic", "energetic", "uplifting"],
+    "activity": ["driving", "commuting", "working out", "late night"],
+    "energy": "high",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["retro", "melodic", "rhythmic", "textured", "expansive"],
+    "description": "Iconic 80s hook that hits instantly. Bright, driving energy that feels like cruising with the windows down and pretending you’re in a movie."
+  },
+  {
+    "title": "Alone",
+    "artist": "Heart",
+    "mood": ["melancholic", "nostalgic", "gritty"],
+    "activity": ["late night", "crying", "reflecting", "driving"],
+    "energy": "medium",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["cinematic", "expansive", "melodic", "raw", "retro"],
+    "description": "Power ballad drama that explodes with Ann's powerhouse voice. Big chorus and bigger feelings, like loneliness turning into something you can finally scream out."
+  },
+  {
+    "title": "high road",
+    "artist": "Kelly Clarkson",
+    "mood": ["uplifting", "energetic", "confident"],
+    "activity": ["driving", "working out", "commuting", "venting"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["expansive", "cinematic", "melodic", "raw", "textured"],
+    "description": "Power-pop resilience that feels like choosing yourself out loud. Big chorus energy that turns frustration into forward motion."
+  },
+  {
+    "title": "End Of Time",
+    "artist": "Zara Larsson",
+    "mood": ["energetic", "uplifting", "warm"],
+    "activity": ["driving", "working out", "late night", "dancing"],
+    "energy": "high",
+    "genre": ["pop", "electronic"],
+    "vibe_tags": ["synthy", "rhythmic", "futuristic", "layered", "expansive"],
+    "description": "Urgent pop rush that feels endless and electric. Like loving someone so loudly it stretches past the moment."
+  },
+  {
+    "title": "Love Me Right",
+    "artist": "Amber Mark",
+    "mood": ["warm", "uplifting", "confident"],
+    "activity": ["cooking", "driving", "walking", "relaxing"],
+    "energy": "medium",
+    "genre": ["r&b", "pop"],
+    "vibe_tags": ["melodic", "smooth", "rhythmic", "layered", "warm"],
+    "description": "Smooth, self-assured groove that feels grounded and cheeky. Calm confidence that doesn’t need to raise its voice."
+  },
+  {
+    "title": "un x100to",
+    "artist": ["Grupo Frontera", "Bad Bunny"],
+    "mood": ["melancholic", "nostalgic", "dreamy"],
+    "activity": ["late night", "driving", "reflecting", "crying"],
+    "energy": "medium",
+    "genre": ["pop", "latin"],
+    "vibe_tags": ["melodic", "airy", "intimate", "textured", "warm"],
+    "description": "Soft heartbreak that sneaks up on you. Like missing someone quietly but deeply, replaying every almost-message."
+  },
+  {
+    "title": "Dreamland",
+    "artist": "Glass Animals",
+    "mood": ["dreamy", "nostalgic", "melancholic"],
+    "activity": ["late night", "daydreaming", "reflecting", "driving"],
+    "energy": "medium",
+    "genre": ["pop", "electronic", "alternative"],
+    "vibe_tags": ["hazy", "layered", "cinematic", "textured", "melodic"],
+    "description": "Floating memories wrapped in soft distortion. Feels like looking back at youth through a warped but gentle lens."
+  },
+  {
+    "title": "En El Coche",
+    "artist": "Aitana",
+    "mood": ["uplifting", "dreamy", "energetic"],
+    "activity": ["driving", "commuting", "late night", "daydreaming"],
+    "energy": "high",
+    "genre": ["pop"],
+    "vibe_tags": ["synthy", "airy", "rhythmic", "layered", "textured"],
+    "description": "Light, breezy Spanish pop built for night drives. Feels like conversations that only happen when the city is quiet."
+  },
+  {
+    "title": "Sunkissing",
+    "artist": "Hailee Steinfeld",
+    "mood": ["warm", "uplifting", "dreamy"],
+    "activity": ["walking", "driving", "daydreaming", "cooking"],
+    "energy": "medium",
+    "genre": ["pop"],
+    "vibe_tags": ["airy", "melodic", "soft vocals", "textured", "warm"],
+    "description": "Gentle pop glow that feels like golden-hour skin. Easy, romantic, and effortlessly sweet."
+  },
+  {
+    "title": "Jane Says",
+    "artist": "Jane's Addiction",
+    "mood": ["gritty", "melancholic", "nostalgic"],
+    "activity": ["late night", "reflecting", "driving", "venting"],
+    "energy": "medium",
+    "genre": ["alternative", "rock"],
+    "vibe_tags": ["raw", "hypnotic", "textured", "minimal", "retro"],
+    "description": "Unsettling calm with a constant edge underneath. Feels like watching someone spiral while pretending everything’s fine."
+  },
+  {
+    "title": "Liz",
+    "artist": "Remi Wolf",
+    "mood": ["energetic", "uplifting", "chaotic"],
+    "activity": ["driving", "working out", "late night", "dancing"],
+    "energy": "high",
+    "genre": ["pop", "funk"],
+    "vibe_tags": ["chaotic", "layered", "rhythmic", "textured", "playful"],
+    "description": "Off-the-wall pop funk that feels unhinged in the best way. Like letting your weirdness run the show."
+  },
+  {
+    "title": "See The Light",
+    "artist": "Stephen Sanchez",
+    "mood": ["warm", "uplifting", "nostalgic"],
+    "activity": ["driving", "relaxing", "daydreaming", "reflecting"],
+    "energy": "medium",
+    "genre": ["pop", "soul"],
+    "vibe_tags": ["retro", "melodic", "soft vocals", "romantic", "warm"],
+    "description": "Old-soul optimism wrapped in a modern sheen. Feels like believing in love again, slowly and timeless."
+  },
+  {
+    "title": "Hey Girl",
+    "artist": "Stephen Sanchez",
+    "mood": ["warm", "dreamy", "uplifting"],
+    "activity": ["walking", "driving", "daydreaming", "cooking"],
+    "energy": "medium",
+    "genre": ["pop", "soul"],
+    "vibe_tags": ["retro", "melodic", "soft vocals", "intimate", "warm"],
+    "description": "Gentle romance with a vintage sway. Like a smile held a second too long."
+  },
+  {
+    "title": "I Can See It In Your Eyes",
+    "artist": "Men At Work",
+    "mood": ["nostalgic", "energetic", "warm"],
+    "activity": ["driving", "commuting", "walking", "late night"],
+    "energy": "medium",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["retro", "melodic", "rhythmic", "textured", "warm"],
+    "description": "80s charm with a knowing playfulness. Feels like realizing the truth before it’s ever said out loud."
+  },
+  {
+    "title": "last time",
+    "artist": "little luna",
+    "mood": ["melancholic", "dreamy", "nostalgic"],
+    "activity": ["late night", "reflecting", "crying", "daydreaming"],
+    "energy": "low",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["intimate", "soft vocals", "minimal", "hazy", "melodic"],
+    "description": "Quiet sadness that feels personal and fragile. Like reliving a goodbye you weren’t ready for."
+  },
+  {
+    "title": "Stairway to Heaven (Live At The Kennedy Center)",
+    "artist": "Heart",
+    "mood": ["nostalgic", "gritty", "uplifting"],
+    "activity": ["late night", "reflecting", "driving"],
+    "energy": "high",
+    "genre": ["rock"],
+    "vibe_tags": ["cinematic", "expansive", "raw", "melodic", "epic"],
+    "description": "Goosebump-inducing performance that feels sacred and holy. Power, respect, and emotional release all at once. Even better than the original"
+  },
+  {
+    "title": "UN DÍA (ONE DAY)",
+    "artist": ["J Balvin", "Dua Lipa", "Bad Bunny"],
+    "mood": ["dreamy", "melancholic", "uplifting"],
+    "activity": ["driving", "late night", "daydreaming"],
+    "energy": "medium",
+    "genre": ["pop", "latin"],
+    "vibe_tags": ["airy", "melodic", "layered", "textured", "romantic"],
+    "description": "Soft global pop longing that feels hopeful and sad at the same time. Like believing timing might still work out."
+  },
+  {
+    "title": "October Passed Me By",
+    "artist": "girl in red",
+    "mood": ["melancholic", "nostalgic", "dreamy"],
+    "activity": ["late night", "reflecting", "crying", "walking"],
+    "energy": "low",
+    "genre": ["indie", "pop"],
+    "vibe_tags": ["intimate", "raw", "soft vocals", "minimal", "moody"],
+    "description": "Quiet grief that lingers without asking permission. Feels like missing someone long after you thought you’d healed."
+  },
+  {
+    "title": "Mary Jane (All Night Long)",
+    "artist": "Mary J. Blige",
+    "mood": ["warm", "nostalgic", "calm"],
+    "activity": ["late night", "relaxing", "reflecting", "driving"],
+    "energy": "medium",
+    "genre": ["r&b", "soul"],
+    "vibe_tags": ["melodic", "soft vocals", "intimate", "retro", "layered"],
+    "description": "Smooth, late-night R&B comfort. Feels like leaning into yourself when the world finally slows down."
+  },
+  {
+    "title": "What It Is",
+    "artist": "Amber Mark",
+    "mood": ["warm", "uplifting", "confident"],
+    "activity": ["cooking", "driving", "walking"],
+    "energy": "medium",
+    "genre": ["r&b", "pop"],
+    "vibe_tags": ["groovy", "melodic", "rhythmic", "layered", "warm"],
+    "description": "Easy confidence and smooth groove. Feels like clarity after overthinking."
+  },
+  {
+    "title": "Yonaguni",
+    "artist": "Bad Bunny",
+    "mood": ["dreamy", "melancholic", "nostalgic"],
+    "activity": ["late night", "driving", "reflecting", "daydreaming"],
+    "energy": "medium",
+    "genre": ["latin", "pop"],
+    "vibe_tags": ["airy", "melodic", "intimate", "textured", "moody"],
+    "description": "Soft heartbreak wrapped in melody and distance. Like missing someone so much it becomes its own place."
+  },
+  {
+    "title": "Mind Over Matter (Reprise)",
+    "artist": "Young The Giant",
+    "mood": ["uplifting", "nostalgic", "melancholic"],
+    "activity": ["driving", "late night", "reflecting"],
+    "energy": "medium",
+    "genre": ["indie", "alternative"],
+    "vibe_tags": ["cinematic", "expansive", "melodic", "textured", "emotional"],
+    "description": "Swelling release that feels earned. Like surviving something and realizing you’re still standing, while being hyper aware of your own humanity."
+  },
+  {
+    "title": "Hold the Line",
+    "artist": "TOTO",
+    "mood": ["energetic", "uplifting", "gritty"],
+    "activity": ["driving", "working out", "commuting"],
+    "energy": "high",
+    "genre": ["rock", "pop"],
+    "vibe_tags": ["retro", "rhythmic", "melodic", "textured", "expansive"],
+    "description": "Classic urgency with a timeless hook. Feels like pushing forward even when it’s uncomfortable."
+  },
+  {
+    "title": "California",
+    "artist": "Lorde",
+    "mood": ["nostalgic", "melancholic", "dreamy"],
+    "activity": ["late night", "reflecting", "daydreaming", "driving"],
+    "energy": "medium",
+    "genre": ["pop"],
+    "vibe_tags": ["cinematic", "hazy", "melodic", "layered", "textured"],
+    "description": "Bittersweet reflection on youth and illusion. Like realizing the dream didn’t save you, but it taught you something."
+  },
+  {
+    "title": "Flaws",
+    "artist": "Bastille",
+    "mood": ["melancholic", "nostalgic", "warm"],
+    "activity": ["late night", "reflecting", "crying"],
+    "energy": "low",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["acoustic", "melodic", "intimate", "raw", "minimal"],
+    "description": "Tender honesty that feels human and exposed. Like admitting love is messy but worth it."
+  },
+  {
+    "title": "Oblivion",
+    "artist": "Bastille",
+    "mood": ["melancholic", "gritty", "nostalgic"],
+    "activity": ["late night", "reflecting", "driving"],
+    "energy": "medium",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["cinematic", "textured", "melodic", "dark", "expansive"],
+    "description": "Extremely heavy emotions in polished production. Dan's voice conveys the deepest feelings of life being finite. Feels like standing still while the world moves on."
+  },
+  {
+    "title": "Daniel In The Den",
+    "artist": "Bastille",
+    "mood": ["energetic", "gritty", "uplifting"],
+    "activity": ["working out", "driving", "venting"],
+    "energy": "high",
+    "genre": ["pop", "alternative"],
+    "vibe_tags": ["cinematic", "rhythmic", "layered", "textured", "dramatic"],
+    "description": "High-stakes momentum with a dramatic edge. Feels like choosing courage when fear is louder."
   }
 ]
