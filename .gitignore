@@ -1,2 +1,6 @@
 data/song_vectors.npy
 data/song_texts.json
+
+# Python cache
+**/__pycache__/
+*.pyc
