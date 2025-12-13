@@ -1332,7 +1332,7 @@
   {
     "title": "Liz",
     "artist": "Remi Wolf",
-    "mood": ["energetic", "uplifting", "chaotic"],
+    "mood": ["energetic", "uplifting"],
     "activity": ["driving", "working out", "late night", "dancing"],
     "energy": "high",
     "genre": ["pop", "funk"],
