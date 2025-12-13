@@ -82,7 +82,7 @@ has_query = False  # set below after query input
 with main_col:
     st.title("Jaime's Recs 🎧")
     st.write(
-        "I made a pool of songs I think you'd like 🎵🩶! You can do an open search to get a Top 5 of matches and use filters if you want. Or you can just use filters to browse the song pool."
+        "I pulled some songs from my Spotify Library 📚. On this site, you can get my song recs 🎵🩶! Use your own words to get a Top 5 list with the songs from my library that match your prompt. You can also use the filters to narrow down your search or just use filters to browse the library, but that won't give you a match."
     )
 
     st.caption("Use your own words to get my recs! Press enter and see the song matches!")
