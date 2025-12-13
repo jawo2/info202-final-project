@@ -42,7 +42,7 @@
   {
     "title": "fanatsmas",
     "artist": "HUMBE",
-    "mood": ["calm", "dreamy", "nostalgic", "warm", "melancholic", "hazy"],
+    "mood": ["calm", "dreamy", "nostalgic", "warm", "melancholic"],
     "activity": ["walking", "relaxing", "crying", "reflecting", "daydreaming"],
     "energy": "low",
     "genre": ["pop", "r&b", "folk", "mariachi"],
@@ -183,7 +183,7 @@
     "title": "Augustine",
     "artist": "Blood Orange",
     "mood": ["dreamy", "nostalgic", "melancholic"],
-    "activity": ["walking", "late night", "daydreaming", "hazy", "commuting"],
+    "activity": ["walking", "late night", "daydreaming", "commuting"],
     "energy": "low",
     "genre": ["r&b", "indie"],
     "vibe_tags": ["hazy", "lo-fi", "textured", "cinematic"],
@@ -762,7 +762,7 @@
   {
     "title": "White Roses",
     "artist": "Glass Animals",
-    "mood": ["dreamy", "hazy", "melancholic"],
+    "mood": ["dreamy", "melancholic"],
     "activity": ["late night", "daydreaming", "reflecting", "driving"],
     "energy": "medium",
     "genre": ["electronic", "alternative", "pop"],
@@ -902,7 +902,7 @@
   {
     "title": "Watcha Doing",
     "artist": "Dua Lipa",
-    "mood": ["uplifting", "energetic", "flirty"],
+    "mood": ["uplifting", "energetic"],
     "activity": ["driving", "walking", "late night", "cooking"],
     "energy": "high",
     "genre": ["pop", "disco"],
@@ -1122,7 +1122,7 @@
   {
     "title": "Glowing Up",
     "artist": "Cynthia Erivo",
-    "mood": ["uplifting", "energetic", "confident"],
+    "mood": ["uplifting", "energetic"],
     "activity": ["working out", "driving", "walking", "commuting"],
     "energy": "high",
     "genre": ["pop", "soul", "r&b"],
@@ -1252,7 +1252,7 @@
   {
     "title": "high road",
     "artist": "Kelly Clarkson",
-    "mood": ["uplifting", "energetic", "confident"],
+    "mood": ["uplifting", "energetic"],
     "activity": ["driving", "working out", "commuting", "venting"],
     "energy": "high",
     "genre": ["pop"],
@@ -1272,7 +1272,7 @@
   {
     "title": "Love Me Right",
     "artist": "Amber Mark",
-    "mood": ["warm", "uplifting", "confident"],
+    "mood": ["warm", "uplifting",
     "activity": ["cooking", "driving", "walking", "relaxing"],
     "energy": "medium",
     "genre": ["r&b", "pop"],
@@ -1422,7 +1422,7 @@
   {
     "title": "What It Is",
     "artist": "Amber Mark",
-    "mood": ["warm", "uplifting", "confident"],
+    "mood": ["warm", "uplifting"],
     "activity": ["cooking", "driving", "walking"],
     "energy": "medium",
     "genre": ["r&b", "pop"],
