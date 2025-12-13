@@ -93,8 +93,6 @@ with main_col:
 
     has_query = bool((query or "").strip())
 
-    st.caption("Tip: Enter a search query, select filters, or both.")
-
     # Count songs in scope (facets only)
     if has_any_filter:
         scoped = semantic_search(query=None, top_k=100_000, filters=filters)
