@@ -775,7 +775,7 @@
     "mood": ["uplifting", "energetic", "warm"],
     "activity": ["cooking", "driving", "late night", "walking"],
     "energy": "high",
-    "genre": ["disco", "soul", "pop"],
+    "genre": ["soul", "pop"],
     "vibe_tags": ["retro", "rhythmic", "groovy", "melodic", "warm"],
     "description": "Classic disco flirtiness with a timeless bounce. Instant mood lift that makes you move without asking permission."
   },
@@ -895,7 +895,7 @@
     "mood": ["energetic", "uplifting", "warm"],
     "activity": ["driving", "working out", "cooking", "late night"],
     "energy": "high",
-    "genre": ["pop", "disco"],
+    "genre": ["pop"],
     "vibe_tags": ["retro", "rhythmic", "groovy", "layered", "melodic"],
     "description": "Confident pop-disco bounce that feels like strutting with determination. Recognized the impact of that a third person had on someone's live. Smooth hooks that make you feel unstoppable."
   },
@@ -905,7 +905,7 @@
     "mood": ["uplifting", "energetic"],
     "activity": ["driving", "walking", "late night", "cooking"],
     "energy": "high",
-    "genre": ["pop", "disco"],
+    "genre": ["pop"],
     "vibe_tags": ["rhythmic", "retro", "groovy", "melodic", "layered"],
     "description": "Playful, flirty energy that feels like a late-night text you actually send. Light, bouncy, and made for moving."
   },
@@ -1015,7 +1015,7 @@
     "mood": ["uplifting", "energetic", "warm"],
     "activity": ["cooking", "driving", "walking", "late night"],
     "energy": "high",
-    "genre": ["pop", "latin"],
+    "genre": ["pop"],
     "vibe_tags": ["rhythmic", "retro", "textured", "melodic", "playful"],
     "description": "Flirty Spanish pop with a cheeky bounce and sweet swagger. Feels like dancing around the kitchen with a grin you can’t hide."
   },
@@ -1025,7 +1025,7 @@
     "mood": ["dreamy", "warm", "uplifting"],
     "activity": ["driving", "late night", "cooking", "daydreaming"],
     "energy": "medium",
-    "genre": ["r&b", "latin", "pop"],
+    "genre": ["r&b", "pop"],
     "vibe_tags": ["hazy", "soft vocals", "melodic", "layered", "textured", "intimate"],
     "description": "Sweet and silky like melting candy. Kali’s voice floats over a groove that’s chill but still addictive, like a slow summer night."
   },
@@ -1035,7 +1035,7 @@
     "mood": ["melancholic", "nostalgic", "warm"],
     "activity": ["late night", "reflecting", "crying", "driving"],
     "energy": "low",
-    "genre": ["pop", "latin"],
+    "genre": ["pop"],
     "vibe_tags": ["acoustic", "melodic", "intimate", "raw", "warm", "textured"],
     "description": "Classic Latin ballad sadness that feels personal. Like remembering something you pretended you forgot, and it hits again."
   },
@@ -1055,7 +1055,7 @@
     "mood": ["melancholic", "nostalgic", "frustrated"],
     "activity": ["late night", "reflecting", "venting", "driving"],
     "energy": "medium",
-    "genre": ["pop", "latin"],
+    "genre": ["pop"],
     "vibe_tags": ["melodic", "raw", "textured", "acoustic", "intimate"],
     "description": "Heartbreak with a steady pulse, like holding your voice together while you admit the truth. Emotional but controlled, built for late-night replay."
   },
@@ -1075,7 +1075,7 @@
     "mood": ["nostalgic", "energetic", "melancholic"],
     "activity": ["driving", "late night", "commuting", "venting"],
     "energy": "high",
-    "genre": ["rock", "latin"],
+    "genre": ["rock"],
     "vibe_tags": ["retro", "melodic", "raw", "textured", "rhythmic"],
     "description": "Classic Argentinian rock nostalgia that makes you sing before you realize you’re emotional. Feels like late nights, cigarettes, and memories you can’t quit."
   },
@@ -1085,7 +1085,7 @@
     "mood": ["gritty", "nostalgic", "energetic"],
     "activity": ["driving", "late night", "venting", "walking"],
     "energy": "high",
-    "genre": ["rock", "latin"],
+    "genre": ["rock"],
     "vibe_tags": ["raw", "retro", "melodic", "textured", "rhythmic"],
     "description": "Loose, swaggering rock that feels like chaos with charm. Like you’re a mess, you know it, and you’re still walking like you’re fine."
   },
@@ -1095,7 +1095,7 @@
     "mood": ["nostalgic", "warm", "melancholic"],
     "activity": ["cooking", "driving", "late night", "reflecting"],
     "energy": "medium",
-    "genre": ["rock", "pop", "latin"],
+    "genre": ["rock", "pop"],
     "vibe_tags": ["melodic", "retro", "textured", "warm", "raw"],
     "description": "Peruvian classic that feels like talking through heartbreak over drinks. Casual and poetic at the same time, like memory turned into a singalong."
   },
@@ -1105,7 +1105,7 @@
     "mood": ["nostalgic", "melancholic", "warm"],
     "activity": ["driving", "late night", "reflecting", "venting"],
     "energy": "medium",
-    "genre": ["rock", "pop", "latin"],
+    "genre": ["rock", "pop"],
     "vibe_tags": ["melodic", "retro", "textured", "raw", "expansive"],
     "description": "Emotional rock-pop that feels like asking questions you already know the answer to. Built for loud singing when you need it out of your system."
   },
@@ -1175,7 +1175,7 @@
     "mood": ["nostalgic", "melancholic", "warm"],
     "activity": ["driving", "late night", "reflecting", "daydreaming"],
     "energy": "medium",
-    "genre": ["pop", "rock", "latin"],
+    "genre": ["pop", "rock"],
     "vibe_tags": ["melodic", "acoustic", "textured", "warm", "retro"],
     "description": "Memory-heavy duet that feels like flipping through old photos you promised you wouldn’t. Sweet and sad in the same breath, built for singing along."
   },
@@ -1185,7 +1185,7 @@
     "mood": ["nostalgic", "melancholic", "gritty"],
     "activity": ["driving", "late night", "venting", "reflecting"],
     "energy": "high",
-    "genre": ["rock", "latin"],
+    "genre": ["rock"],
     "vibe_tags": ["retro", "raw", "melodic", "textured", "rhythmic"],
     "description": "Classic Latin rock sadness that somehow feels good to shout. Like turning heartbreak into a chant and letting it carry you."
   },
@@ -1285,7 +1285,7 @@
     "mood": ["melancholic", "nostalgic", "dreamy"],
     "activity": ["late night", "driving", "reflecting", "crying"],
     "energy": "medium",
-    "genre": ["pop", "latin"],
+    "genre": ["pop"],
     "vibe_tags": ["melodic", "airy", "intimate", "textured", "warm"],
     "description": "Soft heartbreak that sneaks up on you. Like missing someone quietly but deeply, replaying every almost-message."
   },
@@ -1335,7 +1335,7 @@
     "mood": ["energetic", "uplifting"],
     "activity": ["driving", "working out", "late night", "dancing"],
     "energy": "high",
-    "genre": ["pop", "funk"],
+    "genre": ["pop", "alternative"],
     "vibe_tags": ["chaotic", "layered", "rhythmic", "textured", "playful"],
     "description": "Off-the-wall pop funk that feels unhinged in the best way. Like letting your weirdness run the show."
   },
@@ -1395,7 +1395,7 @@
     "mood": ["dreamy", "melancholic", "uplifting"],
     "activity": ["driving", "late night", "daydreaming"],
     "energy": "medium",
-    "genre": ["pop", "latin"],
+    "genre": ["pop"],
     "vibe_tags": ["airy", "melodic", "layered", "textured", "romantic"],
     "description": "Soft global pop longing that feels hopeful and sad at the same time. Like believing timing might still work out."
   },
@@ -1435,7 +1435,7 @@
     "mood": ["dreamy", "melancholic", "nostalgic"],
     "activity": ["late night", "driving", "reflecting", "daydreaming"],
     "energy": "medium",
-    "genre": ["latin", "pop"],
+    "genre": ["pop"],
     "vibe_tags": ["airy", "melodic", "intimate", "textured", "moody"],
     "description": "Soft heartbreak wrapped in melody and distance. Like missing someone so much it becomes its own place."
   },
