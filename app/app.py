@@ -1,8 +1,10 @@
 import streamlit as st
-from similarity import semantic_search
+from facets import collect_facet_options
+from similarity import semantic_search, load_songs
 
 st.set_page_config(page_title="Semantic Music Search", layout="wide")
-
+songs = load_songs()
+faceted_options = collect_facet_options(songs)
 
 # ---- Color code scores (match strength) ----
 def match_strength(score: float | None):
@@ -27,82 +29,71 @@ def match_strength(score: float | None):
         return ("Match Strength:", f"{score:.3f}", "#ba3c3c")
 
 
-# =========================
-# LAYOUT: Filters (left) + Main content (right)
-# =========================
-left, main = st.columns([1, 3], gap="large")
+# -------------------------
+# Two-column layout
+# -------------------------
+filters_col, main_col = st.columns([1.25, 3], gap="large")
 
-with left:
-    st.markdown("## Filter by Tags")
+# -------------------------
+# Left: Filters ONLY
+# -------------------------
+with filters_col:
+    st.markdown("<div style='height: 28px;'></div>", unsafe_allow_html=True)
+    st.header("Filter by Tags")
 
     selected_moods = st.multiselect(
         "Mood",
-        options=[
-            "calm",
-            "melancholic",
-            "dreamy",
-            "uplifting",
-            "nostalgic",
-            "energetic",
-            "warm",
-            "dark",
-            "gritty",
-        ],
+        options=faceted_options["mood"],
         default=[],
     )
 
     selected_genres = st.multiselect(
         "Genre",
-        options=["pop", "indie", "alternative", "electronic", "R&B", "hip-hop", "rock"],
-        default=[],
+        options = faceted_options["genre"],
+        default = [],
     )
 
     selected_activities = st.multiselect(
         "Activity",
-        options=[
-            "studying",
-            "walking",
-            "cooking",
-            "relaxing",
-            "late night",
-            "working out",
-            "commuting",
-            "driving",
-            "reflecting",
-            "crying",
-        ],
-        default=[],
+        options = faceted_options["activity"],
+        default = [],
     )
 
     selected_energy = st.selectbox(
         "Energy",
-        options=["Any", "low", "medium", "high"],
-        index=0,
+        options = ["Any", "low", "medium", "high"],
+        index = 0,
     )
 
+filters = {
+    "mood": selected_moods,
+    "genre": selected_genres,
+    "activity": selected_activities,
+    "energy": None if selected_energy == "Any" else selected_energy,
+}
 
-with main:
+has_any_filter = any(v for v in filters.values() if v)
+has_query = False  # set below after query input
+
+
+# -------------------------
+# Right: Main content ONLY (title, text, search, results)
+# -------------------------
+with main_col:
     st.title("Jaime's Recs 🎧")
     st.write(
         "I made a pool of songs I think you'd like 🎵🩶! You can do an open search to get a Top 5 of matches and use filters if you want. Or you can just use filters to browse the song pool."
     )
 
+    st.caption("Use your own words to get my recs! Press enter and see the song matches!")
     query = st.text_input(
-        "Use your own words to get my recs! Press enter and see the song matches!",
+        label = "",
         placeholder="e.g. Dreamy late night walking music",
     )
 
-    st.caption("Tip: Enter a search query, select filters, or both.")
-
-    filters = {
-        "mood": selected_moods,
-        "genre": selected_genres,
-        "activity": selected_activities,
-        "energy": None if selected_energy == "Any" else selected_energy,
-    }
-
-    has_any_filter = any(v for v in filters.values() if v)
     has_query = bool((query or "").strip())
+
+    st.caption("Tip: Enter a search query, select filters, or both.")
 
     # Count songs in scope (facets only)
     if has_any_filter:
@@ -126,7 +117,6 @@ with main:
                 desc = (r.get("description") or "").strip()
                 score = r.get("score")
 
-                # Header row: title/artist (left) + match strength (right)
                 col_left, col_right = st.columns([4, 1])
 
                 with col_left:
@@ -158,13 +148,11 @@ with main:
                         unsafe_allow_html=True,
                     )
 
-                # Description (visible)
                 if desc:
                     st.write(desc)
                 else:
                     st.caption("No description provided.")
 
-                # Collapsible metadata
                 with st.expander(
                     "If you're wondering why this song is here... this is how I how I tagged it.",
                     expanded=False,
@@ -204,13 +192,11 @@ with main:
         if not results:
             st.info("No songs matched those filters. Try loosening filters.")
         else:
-            # Same format as Top Matches, just NO match strength on the right.
             for i, r in enumerate(results, start=1):
                 title = r.get("title", "Untitled")
                 artist = r.get("artist", "Unknown")
                 desc = (r.get("description") or "").strip()
 
-                # Header row: title/artist only (no match strength)
                 st.markdown(
                     f"""
                     <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.2;">
@@ -220,13 +206,11 @@ with main:
                     unsafe_allow_html=True,
                 )
 
-                # Description (visible)
                 if desc:
                     st.write(desc)
                 else:
                     st.caption("No description provided.")
 
-                # Collapsible metadata (same as Top Matches)
                 with st.expander(
                     "If you're wondering why this song is here... this is how I how I tagged it.",
                     expanded=False,
@@ -254,8 +238,5 @@ with main:
 
                 st.divider()
 
-    # -------------------------
-    # Mode C: nothing selected yet
-    # -------------------------
     else:
         st.caption("Start by typing a search or selecting filters.")
