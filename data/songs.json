@@ -1272,7 +1272,7 @@
   {
     "title": "Love Me Right",
     "artist": "Amber Mark",
-    "mood": ["warm", "uplifting",
+    "mood": ["warm", "uplifting"],
     "activity": ["cooking", "driving", "walking", "relaxing"],
     "energy": "medium",
     "genre": ["r&b", "pop"],
