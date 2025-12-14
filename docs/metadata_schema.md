@@ -23,13 +23,15 @@ Each song is one JSON object with the following required fields:
 #### `mood` (array of strings)
 - Emotion/feeling descriptors (faceted).
 - Always an array, even if there is only one mood.
-- Examples:
+- Full list: `calm`, `melancholic`, `dreamy`, `uplifting`, `nostalgic`, `energetic`, `warm`, `gritty`, `frustrated`
+- Examples: 
   - `["dreamy", "melancholic"]`
   - `["uplifting"]`
 
 #### `activity` (array of strings)
 - Common listening contexts (faceted).
 - Always an array.
+- Full list: `studying`, `walking`, `cooking`, `relaxing`, `late night`, `working out`, `commuting`, `crying`, `reflecting`, `driving`, `daydreaming`, `venting`
 - Examples:
   - `["driving", "late night", "reflecting"]`
   - `["cooking"]`
@@ -43,6 +45,7 @@ Each song is one JSON object with the following required fields:
 #### `genre` (array of strings)
 - Broad musical categories (faceted).
 - Always an array.
+- Full list: `pop`, `indie`, `alternative`, `electronic`, `r&b`, `rock`, `folk`, `country`, `mariachi`, `flamenco`, `classical`, `jazz`, `soul`
 - Examples:
   - `["pop"]`
   - `["rock", "alternative"]`
@@ -50,6 +53,7 @@ Each song is one JSON object with the following required fields:
 #### `vibe_tags` (array of strings)
 - Extra descriptors that are more nuanced to complement context/vibe.
 - Always an array.
+- Full list: `cinematic`, `intimate`, `expansive`, `airy`, `dark`, `warm`, `hazy`, `moody`, `lo-fi`, `synthy`, acoustic, `layered`, `minimal`, `textured`, `ethereal`, `soft vocals`, `distorted vocals`, `melodic`, `rhythmic`, `raw`, `futuristic`, `hypnotic`, `retro`, `chaotic`
 - Examples:
   - `["synthy", "layered", "cinematic"]`
   - `["acoustic", "raw", "retro"]`
