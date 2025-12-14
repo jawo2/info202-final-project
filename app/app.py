@@ -1,3 +1,8 @@
+import os
+import sys
+
+sys.path.append(os.path.dirname(__file__))
+
 import streamlit as st
 from facets import collect_facet_options
 from similarity import semantic_search, load_songs
