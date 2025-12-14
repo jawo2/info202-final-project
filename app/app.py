@@ -13,12 +13,11 @@ def match_strength(score: float | None):
     - >= 0.45 : Very strong semantic match  -> green
     - 0.30-0.45: Good / relevant match      -> yellow
     - 0.20-0.30: Weak but related           -> orange
-    - 0.00-0.20: Likely irrelevant          -> red
+    - 0.00-0.20: Likely irrelevant          ->red
     - < 0.0   : Actively dissimilar         -> red
     """
     if score is None:
         return ("Match Strength:", "N/A", "#9ca3af")
-
     if score >= 0.45:
         return ("Match Strength:", f"{score:.3f}", "#2fb751")
     elif score >= 0.30:
@@ -29,14 +28,10 @@ def match_strength(score: float | None):
         return ("Match Strength:", f"{score:.3f}", "#ba3c3c")
 
 
-# -------------------------
 # Two-column layout
-# -------------------------
 filters_col, main_col = st.columns([1.25, 3], gap="large")
 
-# -------------------------
 # Left: Filters ONLY
-# -------------------------
 with filters_col:
     st.markdown("<div style='height: 28px;'></div>", unsafe_allow_html=True)
     st.header("Filter by Tags")
@@ -76,9 +71,7 @@ has_any_filter = any(v for v in filters.values() if v)
 has_query = False  # set below after query input
 
 
-# -------------------------
 # Right: Main content ONLY (title, text, search, results)
-# -------------------------
 with main_col:
     st.title("Jaime's Recs 🎧")
     st.write(
@@ -98,9 +91,7 @@ with main_col:
         scoped = semantic_search(query=None, top_k=100_000, filters=filters)
         st.caption(f"Songs in scope: {len(scoped)}")
 
-    # -------------------------
     # Mode A: semantic search (query exists)
-    # -------------------------
     if has_query:
         results = semantic_search(query=query, top_k=5, filters=filters)
 
@@ -178,9 +169,7 @@ with main_col:
 
                 st.divider()
 
-    # -------------------------
     # Mode B: faceted-only browse (no query, filters exist)
-    # -------------------------
     elif has_any_filter:
         st.subheader("Tag-Only Results")
 
